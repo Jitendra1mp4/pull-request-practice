@@ -4,7 +4,7 @@ This repo is intended to practice pull requests. Please follow all instructions.
 
 1. clone this repository
 1. create a branch locally of your name in the format firstName-lastName
-1. in your branch, add an HTML file called yourName-firstName.html
+1. in your branch, add an HTML file called firstName-lastName.html
 1. include normal boiler plate HTML code and in the body, add an h1 with your name inside
 1. add and commit your work locally
 1. push your branch up to the repository
